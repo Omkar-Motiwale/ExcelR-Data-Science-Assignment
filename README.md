@@ -8,7 +8,7 @@
 
 
 1. Basic Statistics_Level 1
-    * [Basic Statistics_Level 1.docx](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/1.%20Basic%20Statistics_Level-1/Basic%20Statistics_Level%201.docx)
+    * [Basic Statistics_Level 1.docx](https://github.com/Omkar-Motiwale/ExcelR-Data-Science-Assignment/blob/main/Assignments/1.%20Basic%20Statistics_Level-1/Basic%20Statistics_Level%201.docx)
     
 
  2. Basic Statistics_Level 2
