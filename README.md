@@ -1,11 +1,9 @@
 # **ExcelR - Data Science Assignments**
 
 ***
-##### **`Name:- Kunal Doshi`**
-##### **`Email:- kunaldoshi.1897@gmail.com`**
+### **`Name:- Omkar Motiwale`**
+### **`Email:- motiwaleomkar@gmail.com`**
 ***
-
-![banner Image](https://export-download.canva.com/gVUoE/DAFjpNgVUoE/5/0/0001-5200301485.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230521T163506Z&X-Amz-Expires=78011&X-Amz-Signature=533e338ca07cdfed786fc34ce772ffa0b252e27753c60fad36063273a753ff0e&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Black%2520Modern%2520Geometric%2520Personal%2520LinkedIn%2520Banner.png&response-expires=Mon%2C%2022%20May%202023%2014%3A15%3A17%20GMT)
 
 
 
