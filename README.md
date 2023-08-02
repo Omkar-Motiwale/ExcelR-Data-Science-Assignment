@@ -12,13 +12,13 @@
     
 
  2. Basic Statistics_Level 2
-    * [Set 1_Descriptive statistics Probability (2).docx](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/Set%2B1_Descriptive%2Bstatistics%2BProbability%2B(2).docx)
-    * [Set_1.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/set-1.ipynb)
-    * [Set 2_Normal Distribution Functions of random variables.docx](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/Set%2B2_Normal%2BDistribution%2BFunctions%2Bof%2Brandom%2Bvariables.docx)
-    * [Set 2_Normal Distribution Functions of random variables.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/set-2-normal-distribution.ipynb)
-    * [Set 3.docx](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/Set%2B3.doc)
-    * [Set 4.docx](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/Set%2B4.docx.doc)
-    * [Set 4.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/set-4.ipynb)
+    * [Set 1_Descriptive statistics Probability (2).docx](https://github.com/Omkar-Motiwale/ExcelR-Data-Science-Assignment/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/Set%2B1_Descriptive%2Bstatistics%2BProbability%2B(2).docx)
+    * [Set_1.ipynb](https://github.com/Omkar-Motiwale/ExcelR-Data-Science-Assignment/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/set-1.ipynb)
+    * [Set 2_Normal Distribution Functions of random variables.docx](https://github.com/Omkar-Motiwale/ExcelR-Data-Science-Assignment/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/Set%2B2_Normal%2BDistribution%2BFunctions%2Bof%2Brandom%2Bvariables.docx)
+    * [Set 2_Normal Distribution Functions of random variables.ipynb](https://github.com/Omkar-Motiwale/ExcelR-Data-Science-Assignment/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/set-2-normal-distribution.ipynb)
+    * [Set 3.docx](https://github.com/Omkar-Motiwale/ExcelR-Data-Science-Assignment/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/Set%2B3.doc)
+    * [Set 4.docx](https://github.com/Omkar-Motiwale/ExcelR-Data-Science-Assignment/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/Set%2B4.docx.doc)
+    * [Set 4.ipynb](https://github.com/Omkar-Motiwale/ExcelR-Data-Science-Assignment/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/set-4.ipynb)
     
     
  3. Hypothesis Testing
