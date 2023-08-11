@@ -22,15 +22,15 @@
     
     
  3. Hypothesis Testing
-    * [Cutlets.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/3.%20Hypothesis%20Teasting/hypostasis-cutlets-assignment.ipynb)
-    * [LabTAT.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/3.%20Hypothesis%20Teasting/hypothesis-labtat.ipynb)
-    * [Buyer_Ratio.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/3.%20Hypothesis%20Teasting/hypothesis-buyer-ratio.ipynb)
-    * [Customer-Order-form-assignment.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/3.%20Hypothesis%20Teasting/hypostasis-Customer-Order-form-assignment.ipynb)
+    * [Cutlets.ipynb](https://github.com/Omkar-Motiwale/ExcelR-Data-Science-Assignment/blob/main/Assignments/3.%20Hypothesis%20Teasting/hypostasis-cutlets-assignment.ipynb)
+    * [LabTAT.ipynb](https://github.com/Omkar-Motiwale/ExcelR-Data-Science-Assignment/blob/main/Assignments/3.%20Hypothesis%20Teasting/hypothesis-labtat.ipynb)
+    * [Buyer_Ratio.ipynb](https://github.com/Omkar-Motiwale/ExcelR-Data-Science-Assignment/blob/main/Assignments/3.%20Hypothesis%20Teasting/hypothesis-buyer-ratio.ipynb)
+    * [Customer-Order-form-assignment.ipynb](https://github.com/Omkar-Motiwale/ExcelR-Data-Science-Assignment/blob/main/Assignments/3.%20Hypothesis%20Teasting/hypostasis-Customer-Order-form-assignment.ipynb)
     
     
  4. Simple Linear Regression
-    * [delivery_time.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/tree/main/Assignments/4.%20Simple%20Linear%20Regression/Delivery%20Time)
-    * [Salary Hike.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/tree/main/Assignments/4.%20Simple%20Linear%20Regression/Salary%20Hike)
+    * [delivery_time.ipynb](https://github.com/Omkar-Motiwale/ExcelR-Data-Science-Assignment/tree/main/Assignments/4.%20Simple%20Linear%20Regression/Delivery%20Time)
+    * [Salary Hike.ipynb](https://github.com/Omkar-Motiwale/ExcelR-Data-Science-Assignment/blob/main/Assignments/4.%20Simple%20Linear%20Regression/Delivery%20Time/simple-linear-regression-delivery-time.ipynb)
     
     
  5. Multy Linear Regression
